@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="width_window_major_add_bitmap">95%</dimen>
+    <dimen name="width_window_minor_add_bitmap">94%</dimen>
+    <dimen name="height_window_major_add_bitmap">65%</dimen>
+    <dimen name="height_window_minor_add_bitmap">55%</dimen>
+</resources>

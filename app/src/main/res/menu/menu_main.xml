@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.zlodeuscomp.vdolgah.screens.main.MainActivity">
+    <item
+        android:id="@+id/action_open_toMeDebts"
+        android:orderInCategory="1"
+        android:title="@string/to_me_debts"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_open_myDebts"
+        android:orderInCategory="1"
+        android:title="@string/my_debts"
+        app:showAsAction="ifRoom" />
+</menu>
